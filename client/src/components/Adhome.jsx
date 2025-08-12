@@ -5,7 +5,7 @@ const StudentList = ({ selectedClass, date, time, onBack }) => {
   const studentsData = {
     "Class A": [
       { name: "Aarav Sharma", regNo: "CSE101" },
-      { name: "Priya Verma", regNo: "CSE102" },
+      { name: "Priya Verma", regNo: "CSE103" },
     ],
     "Class B": [
       { name: "Rajesh Kumar", regNo: "ECE201" },
